@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="32" fill="#07070f"/>
+  <polygon points="96,20 152,52 152,116 96,148 40,116 40,52" fill="none" stroke="#6366f1" stroke-width="8"/>
+  <polygon points="96,44 132,64 132,104 96,124 60,104 60,64" fill="#6366f1" opacity="0.3"/>
+  <text x="96" y="104" font-size="40" text-anchor="middle" font-family="system-ui" fill="#6366f1" font-weight="700">₽</text>
+</svg>
